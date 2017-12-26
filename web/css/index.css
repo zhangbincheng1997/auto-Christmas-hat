@@ -1,0 +1,6 @@
+body{background:#000;text-align:center;}
+.page-wrap{margin:0 auto;width:1000px;max-width:100%;border:1px dashed #fff;padding-top:50px;padding-bottom:50px;}
+.vfx-image-wrap{position:relative;display:inline-block;margin:0 auto;width:800px;min-height:600px;cursor:ew-resize;}
+.before-image{position:absolute;top:0;left:0;z-index:1;width:50%;overflow:hidden;}
+.after-image{position:absolute;top:0;left:0;z-index:0;}
+.divider-bar{position:absolute;width:2px;left:50%;background:white;height:100%;display:block;z-index:2;}

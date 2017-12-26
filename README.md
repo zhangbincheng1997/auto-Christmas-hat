@@ -3,5 +3,6 @@
 
 1. jpg 静态图片集合
 2. gif 动态图片集合
-2. hats 圣诞帽子集合
-4. haarcascade_frontalface_default.xml 分类器 https://github.com/opencv/opencv/tree/master/data/haarcascades
+3. hats 圣诞帽子素材
+4. web 网页对比展示
+5. haarcascade_frontalface_default.xml 分类器 https://github.com/opencv/opencv/tree/master/data/haarcascades
